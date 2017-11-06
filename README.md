@@ -64,3 +64,69 @@
 [uptime-robot](https://uptimerobot.com/) - Uptime Robot is all about helping you to keep your websites up.
 
 []() - 
+
+## Text Editor
+
+[Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+
+### Themes & Packages
+
+[Material Theme](https://packagecontrol.io/packages/Material%20Theme) - 
+
+[My Color Scheme](https://gist.github.com/Hasnayeen/424e7953d5ccb8de0b02e37ec0775bc9) - 
+
+[Side Bar](https://packagecontrol.io/packages/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
+
+[A File Icon](https://packagecontrol.io/packages/A%20File%20Icon) - Sublime Text File-Specific Icons for Improved Visual Grepping
+
+[PHP Companion](https://packagecontrol.io/packages/PHP%20Companion) - Provides php functionality (import namespace, class, go to definition etc)
+
+[Git Gutter](https://packagecontrol.io/packages/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter
+
+[DoxyDoxygen](https://packagecontrol.io/packages/DocBlockr_with_update_capability) - oxyDoxygen is a plug-in for Sublime Text that aims to save a lot of time and efforts when creating and updating documentation comments in source code.
+
+[Advanced New File](https://packagecontrol.io/packages/AdvancedNewFile) - File creation plugin for Sublime Text 2 and Sublime Text 3.
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
+
+[]() - 
