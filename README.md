@@ -78,7 +78,7 @@
 
 ## Text Editor
 
-[Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+### [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 
 #### Themes & Packages
 
@@ -99,13 +99,13 @@
 [Advanced New File](https://packagecontrol.io/packages/AdvancedNewFile) - File creation plugin for Sublime Text 2 and Sublime Text 3.
 
 
-[Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
+### [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
 #### Themes & Packages
 
-[]() - 
+[Import Cost VSCode Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Display import/require package size in the editor
 
-[]() - 
+[Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - 
 
 []() - 
 
